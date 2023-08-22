@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Halibut";
+  src: url("./Fonts/Halibut-clt/web/Halibut-Thin.woff2") format("woff2"),
+    url("./Fonts/Halibut-clt/web/Halibut-Thin.woff") format("woff");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,100&display=swap');
+
+body{
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  /* font-family: "Halibut"; */
+  font-family: 'DM Sans', sans-serif;  
+}
