@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import './Auth.css'
 
 export default function Auth() {
-    let [active, setActive] = useState(false);
     
     function switchSide(){
         let main = document.querySelector('.main');
